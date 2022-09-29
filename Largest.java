@@ -1,6 +1,6 @@
 package CoreJava;
 /*
-Program: Current version of Java
+Program: Largest of two numbers
 @author: Sushma
 @date: 29th sept 2022
 */
