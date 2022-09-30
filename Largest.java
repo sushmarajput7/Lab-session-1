@@ -1,5 +1,7 @@
 package CoreJava;
 /*
+ques: Create a program to find largest of two numbers?
+Take the input from the user.
 Program: Largest of two numbers
 @author: Sushma
 @date: 29th sept 2022
