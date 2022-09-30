@@ -1,5 +1,6 @@
 package CoreJava;
-/*
+/* 
+Ques: Find the current version of java
 Program: Current version of Java
 @author: Sushma
 @date: 29th sept 2022
