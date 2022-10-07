@@ -1,4 +1,7 @@
-package Corejava;
+/*program: WAP to create Reverse Pyramid
+@author: Sushma
+Date: 6th oct 2022
+*/package Corejava;
 
 import java.util.Scanner;
 
